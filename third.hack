@@ -48,3 +48,15 @@ class Testola
     }
 }
 
+
+/**
+ * OUTPUT:
+ *     $ hhvm third.hack
+ *      welcome to Hack!
+ *     
+ *      DruiD628 . hack
+ *      I guess you done fudged up!
+ *     
+ *     
+ *     $
+ */
