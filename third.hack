@@ -2,7 +2,7 @@ namespace DruiD628\Test;
 
 <<__EntryPoint>>
 
-function main(): noreturn
+function third(): void
 {
   echo "welcome to Hack!\n\n";
 
