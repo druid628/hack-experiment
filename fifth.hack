@@ -42,3 +42,18 @@ class Manager extends Person
     return \implode(" ", $newDialog);
   }
 }
+
+
+/**
+ * OUTPUT:
+ *
+ *     $ hhvm fifth.hack
+ *     I need a day off
+ *     ffo day a I deen
+ *
+ *     $ hhvm fifth.hack
+ *     I need a day off
+ *     deen a yad ffo I
+ *
+ *     $
+ */
